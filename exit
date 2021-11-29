@@ -1,0 +1,63 @@
+[33mcommit 88fa3b97fdfba14d02f0454492dfb38eee63c7de[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Kamil Surlas <ks303231@student.polsl.pl>
+Date:   Mon Nov 29 20:57:29 2021 +0100
+
+    zmiana06
+
+ plik01.txt | 2 [32m+[m[31m-[m
+ plik03.txt | 1 [32m+[m
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit fd5392e9dd44984dd89830071a426fc44856e2d1[m
+Author: Kamil Surlas <ks303231@student.polsl.pl>
+Date:   Mon Nov 29 20:29:37 2021 +0100
+
+    dodano plik02.txt
+
+ plik02.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 733840968059dbc8dc50af92477975f69b0abaa1[m
+Author: Kamil Surlas <ks303231@student.polsl.pl>
+Date:   Mon Nov 29 20:23:23 2021 +0100
+
+    zmiana05
+
+ plik01.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 72be3e6b0b30968c8ab60dd44b1bbf74d8e56e54[m
+Author: Kamil Surlas <ks303231@student.polsl.pl>
+Date:   Mon Nov 29 20:21:16 2021 +0100
+
+    Zmiana04 - nowa wersja
+
+ plik01.txt | 9 [32m++++[m[31m-----[m
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+
+[33mcommit 787619cc01151a26f79dd1568dcd195ee56c1a71[m
+Author: Kamil Surlas <ks303231@student.polsl.pl>
+Date:   Mon Nov 29 20:13:34 2021 +0100
+
+    zmiana05 zmiana06
+
+ plik01.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 3f533a4fce1b0be03e6434bf7f47d180d6cb6b8c[m
+Author: Kamil Surlas <ks303231@student.polsl.pl>
+Date:   Mon Nov 29 20:09:22 2021 +0100
+
+    Zmiana01 zmiana02
+
+ plik01.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit f45427a193ac586888a550caa4c9b7cb39bec9e0[m
+Author: Kamil Surlas <ks303231@student.polsl.pl>
+Date:   Mon Nov 29 19:58:09 2021 +0100
+
+            dodanie zmiana03 i zmiana04
+
+ plik01.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
