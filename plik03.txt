@@ -10,3 +10,4 @@ zmiana10C
 zmiana12
 zmiana10
 zmiana nowaGalaz
+zmiana wClonie
