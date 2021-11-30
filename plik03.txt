@@ -5,6 +5,3 @@ Usprawnienie interfejsu graficznego
 easierApp
 ZMIANA08
 zmiana09
-zmiana10B
-zmiana10C
-zmiana12
